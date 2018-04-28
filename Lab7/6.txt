@@ -1,0 +1,5 @@
+Total animals =16
+Total dangerous = 6
+Brown and dangerous = 0
+Large and safe = 5
+Safe and red color or hard flesh = 8
